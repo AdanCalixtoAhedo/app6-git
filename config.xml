@@ -2,13 +2,13 @@
 
 <widget xmlns= "http://www.w3.org/ns/widgets"
 xmlns:gap= "http://phonegap.com/ns/1.0"
-id = "com.phonegap.app6"
+id = "com.phonegap.app10"
 version = "1.0.0">
 
-<name>app6 Batalla del 5 de Mayo</name>
+<name>app10_ProyectoFinal</name>
 
 <description>
-Aplicacion acerca sobre el 5 de mayo
+Aplicacion acerca de DSAUPOO
 </description>
 
 <author href="https://build.phonegap.com" email="adancalixto42@gmail.com">
